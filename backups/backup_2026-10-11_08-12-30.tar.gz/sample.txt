@@ -1,0 +1,3 @@
+CloudOps automates software delivery.
+CloudOps teams use scripts for repetitive tasks.
+Shell scripting helps with file processing.
