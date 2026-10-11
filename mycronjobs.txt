@@ -1,0 +1,1 @@
+0 2 * * * /home/ec2-user/DVP-Week13-Assignment/backup.sh >> /home/ec2-user/DVP-Week13-Assignment/backup.log 2>&1
